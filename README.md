@@ -1,3 +1,6 @@
+<img width="960" height="240" alt="IMG_1517-4x" src="https://github.com/user-attachments/assets/e332c7ed-c8fa-4c09-9a13-f40ccddc2000" />
+
+
 # Pixelkey's Delightful Paintings
 
 An original collection of Minecraft paintings by Pixelkey, inspired by the rustic charm of farming, food, and countryside life.
@@ -7,6 +10,8 @@ An original collection of Minecraft paintings by Pixelkey, inspired by the rusti
 Pixelkey's Delightful Paintings is a standalone painting mod for Minecraft, featuring original artwork created specifically for the game.
 
 The collection brings a little more personality and warmth to Minecraft's walls, with artwork ranging from botanical studies and countryside scenes to food, farming, and everyday life.
+
+Inspired by Vectorwing's Farmer's Delight mod.
 
 ## Features
 
