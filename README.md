@@ -1,4 +1,9 @@
-<img width="960" height="240" alt="IMG_1517-4x" src="https://github.com/user-attachments/assets/e332c7ed-c8fa-4c09-9a13-f40ccddc2000" />
+<img width="1440" height="360" alt="IMG_1520-6x" src="https://github.com/user-attachments/assets/782cdf37-d48e-4e05-9df1-a1b61a251c72" />
+
+<img width="1920" height="1051" alt="2026-11-22_21 40 13" src="https://github.com/user-attachments/assets/ea773d97-35fb-49bd-86e9-b59a0d08dc1d" />
+
+
+
 
 
 # Pixelkey's Delightful Paintings
