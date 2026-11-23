@@ -18,6 +18,11 @@ The collection brings a little more personality and warmth to Minecraft's walls,
 
 Inspired by Vectorwing's Farmer's Delight mod.
 
+## Available Versions
+
+- [NeoForge (Minecraft 1.21.1)](https://github.com/PixelKey-o/-Delightful-Paintings-)
+- [Fabric (Minecraft 1.21.1)](https://github.com/PixelKey-o/Delightful-Paintings-Fabric)
+
 ## Features
 
 - 14 original paintings.
