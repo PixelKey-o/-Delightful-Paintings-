@@ -31,17 +31,27 @@ Inspired by Vectorwing's Farmer's Delight mod.
 | Component | Version |
 |---|---|
 | Minecraft | 1.21.1 |
-| Mod Loader | NeoForge |
+| Mod Loader | NeoForge, Fabric |
 | NeoForge | 21.1.x |
 
 **Mod ID:** `pk_delightful_paintings`
 
 ## Installation
 
+Choose the version matching your installed mod loader.
+
+### NeoForge
 1. Install Minecraft 1.21.1 with NeoForge.
-2. Download the mod `.jar` file.
+2. Download the NeoForge `.jar` file.
 3. Place it in your Minecraft `mods` folder.
-4. Launch the game.
+
+### Fabric
+1. Install Minecraft 1.21.1 with Fabric Loader.
+2. Install Fabric API.
+3. Download the Fabric `.jar` file.
+4. Place both files in your Minecraft `mods` folder.
+
+Launch the game and enjoy <3
 
 ## Building from Source
 
