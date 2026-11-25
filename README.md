@@ -16,12 +16,12 @@ Pixelkey's Delightful Paintings is a standalone painting mod for Minecraft, feat
 
 The collection brings a little more personality and warmth to Minecraft's walls, with artwork ranging from botanical studies and countryside scenes to food, farming, and everyday life.
 
-Inspired by Vectorwing's Farmer's Delight mod.
+Inspired by [Vectorwing's Farmer's Delight mod](https://www.curseforge.com/minecraft/mc-mods/farmers-delight).
 
 ## Available Versions
 
-- [NeoForge (Minecraft 1.21.1)](https://github.com/PixelKey-o/-Delightful-Paintings-)
-- [Fabric (Minecraft 1.21.1)](https://github.com/PixelKey-o/Delightful-Paintings-Fabric)
+- [NeoForge Repository (Minecraft 1.21.1)](https://github.com/PixelKey-o/-Delightful-Paintings-)
+- [Fabric Repository (Minecraft 1.21.1)](https://github.com/PixelKey-o/Delightful-Paintings-Fabric)
 
 ## Features
 
